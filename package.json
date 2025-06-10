@@ -12,13 +12,14 @@
     "url": "git+https://github.com/Kasey0998/CrudApp.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kasey",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kasey0998/CrudApp/issues"
   },
   "homepage": "https://github.com/Kasey0998/CrudApp#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
   }
 }
